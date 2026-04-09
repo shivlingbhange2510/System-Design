@@ -1,0 +1,37 @@
+Name of the employee : Shivling Bhange
+BTI-ID: BTI-00026
+Joining Date : 05-November-2024
+J3
+
+
+________________________________________________
+
+Employee points to discuss
+
+your three Achievements 
+
+	a) Architected and developed the Diff Report 2.0 UI entirely from scratch, 	establishing 	full technical independence from the Munich team since day one by 	designing a 	self-sustained and scalable end-to-end architecture.  
+
+	b) added  new features in diff report 2.0  ( Mapping Table , Parameter checks 	etc )
+
+	c) Full ownership of Diffreport 2.0 project from BTI 
+
+
+your three Value addition : a) started writing unit test cases  it increase productivity as well as reduce     	regression b)c)     
+Your areas of improvements :   Take more responsibility of team along with work  bridge between Munich Stakeholders and BTI    
+Expectations from unit head  / FB to unit head    I think we need to take atleast one call in month with team 30 minutes so that we all will be       	on same page and  you guys also have idea so what's going on in project  
+
+Your Training Need
+
+
+
+______________________________
+
+ Current feedback from Munich
+Processes / how do you assure quality (Your thoughts )
+AI Based ideas
+Have you Submitted any  Think  from  productionizing  perspective
+
+
+5. unit level contribution
+6.
